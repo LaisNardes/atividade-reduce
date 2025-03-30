@@ -36,3 +36,5 @@ const products = [
     sale: true,
   },
 ];
+
+module.exports = products;
